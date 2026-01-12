@@ -27,7 +27,7 @@ export default function OrderSuccessBanner() {
           updates thereafter
         </p>
 
-        <div className="mt-8 w-full relative z-10">
+        <div className="mt-8 w-full relative z-10 pb-16 sm:pb-0">
           <PrescriptionStatusCard />
         </div>
       </div>
